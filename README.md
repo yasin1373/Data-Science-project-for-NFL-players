@@ -1,4 +1,4 @@
-This project performed exploratory analysis on two datasets related to NFL player performance and readiness metrics.
+## This project performed exploratory analysis on two datasets related to NFL player performance and readiness metrics.
 
 Data import and tidying in R
 Exploratory data analysis
